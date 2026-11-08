@@ -1,0 +1,1 @@
+{ "functions": { "api/ssweb.js": { "maxDuration": 60 }, "api/hd.js": { "maxDuration": 60 }, "api/fetch.js": { "maxDuration": 15 } } }
